@@ -43,10 +43,5 @@ Symbol	Purpose
 &&	Logical AND, true if both conditions are true
 
 ## **Screenshots**
-<img width="641" height="254" alt="bigText" src="https://github.com/user-attachments/assets/bd5ec0e1-2104-4753-a799-c7291c10ba24" />
-
-<img width="635" height="254" alt="blueText" src="https://github.com/user-attachments/assets/0a998677-3753-4b78-900a-2e4560426f6f"
-<img width="641" height="254" alt="monoText" src="https://github.com/user-attachments/assets/1a106dc8-9bf8-46f3-8036-712cdd0efd4e" />
- />
-<img width="624" height="236" alt="highlight" src="https://github.com/user-attachments/assets/ee3c17fc-e396-4f31-b7fa-8a643802554e" />
+<img width="641" height="254" alt="bigText" src="https://github.com/user-attachments/assets/fdc24ef5-18bc-4cce-8984-8dcaef96203e" />
 
