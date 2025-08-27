@@ -2,6 +2,7 @@
 
 ---
 
+
 ## **Description**
 A Lightning Web Component that lets users enter JavaScript symbols and dynamically shows their purpose.
 
@@ -9,8 +10,10 @@ A Lightning Web Component that lets users enter JavaScript symbols and dynamical
 - Provides instant explanations for each symbol.
 - Styled with **Salesforce Lightning Design System (SLDS)**.
 - Can be added to **App Page, Record Page, or Home Page**.
+<img width="635" height="254" alt="blueText" src="https://github.com/user-attachments/assets/3e709736-7c27-42c6-8726-3ec7e00e13ed" />
 
 ---
+
 
 ## **Installation**
 1. **Clone this repository:**
