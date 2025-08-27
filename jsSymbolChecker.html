@@ -1,0 +1,24 @@
+<template>
+   <lightning-card title="JavaScript Symbol Purpose Checker" icon-name="utility:code">
+      <div class="slds-p-around_medium">
+         <lightning-input 
+            type="text" 
+            label="Enter a JavaScript Symbol" 
+            onchange={handleChangeSymbol} 
+            value={symbol} 
+            placeholder="Try => , [], %, && ...">
+         </lightning-input>
+
+         <lightning-button 
+            class="slds-m-top_medium slds-align_absolute-center"  
+            label="Check Purpose" 
+            variant="brand" 
+            onclick={handleSymbol}>
+         </lightning-button>
+
+         <div class="slds-text-align_center slds-m-top_medium slds-text-heading_medium slds-p-around_medium">
+            {message}
+         </div>
+      </div>
+   </lightning-card>
+</template>
