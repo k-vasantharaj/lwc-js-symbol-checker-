@@ -36,6 +36,8 @@ Symbol	Purpose
 {}	Defines objects or code blocks
 []	Defines arrays or accesses elements
 =>	Arrow function (short function syntax)
+<img width="641" height="254" alt="bigText" src="https://github.com/user-attachments/assets/3ced3f4c-e9e6-4235-b37f-c6aef6782a62" />
+
 !	Logical NOT, negates a boolean value
 ==	Loose equality (checks value only, allows type conversion)
 ===	Strict equality (checks value and type)
