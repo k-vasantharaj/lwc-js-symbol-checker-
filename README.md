@@ -44,4 +44,10 @@ Symbol	Purpose
 
 ## **Screenshots**
 <img width="641" height="254" alt="bigText" src="https://github.com/user-attachments/assets/fdc24ef5-18bc-4cce-8984-8dcaef96203e" />
+<img width="635" height="254" alt="blueText" src="https://github.com/user-attachments/assets/71dcddba-ee7f-41dd-ba15-fad7be213160" />
+<img width="624" height="236" alt="highlight" src="https://github.com/user-attachments/assets/16e9cda2-d5d8-4b21-97cf-022f492d8fb5" />
+
+<img width="641" height="255" alt="italicText" src="https://github.com/user-attachments/assets/a4cff9fe-1844-4f57-a5da-d65be7619590" />
+<img width="641" height="254" alt="monoText" src="https://github.com/user-attachments/assets/b6ff9c7e-fb0c-4352-b895-96356b9d75fc" />
+
 
