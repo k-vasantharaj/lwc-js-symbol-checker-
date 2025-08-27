@@ -42,7 +42,7 @@ Symbol	Purpose
 `	
 &&	Logical AND, true if both conditions are true
 
-## **Screenshots**
+## **## **Screenshots****
 <img width="641" height="254" alt="bigText" src="https://github.com/user-attachments/assets/8a688456-81de-4092-abde-a135ab8cc909" />
 
 
